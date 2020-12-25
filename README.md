@@ -23,4 +23,4 @@ F5:  `ESC [ 21 ` (`1B, 5B, 31, 31, 7E`)
 `N: SET PANEL TABLE`でDSTに割り当てるボタン、SRCに割り当てるボタンを設定する  
 DSTでは、カーソルキーでボタンを選んでEnter→`11`→Enter で1(Output)1chになる  
 SRCでは同様にEnter→`01`→Enterで0(Input)1chに設定される  
-DSTで0(INPUT)、SRCで1(OUTPUT)を選択するとエラーになる
+DSTで0(INPUT)、SRCで1(OUTPUT)を選択すると設定自体はできるがコンパネのボタンを押すとエラー表示になる
