@@ -13,7 +13,7 @@ F5:  `ESC [ 21 ` (`1B, 5B, 31, 31, 7E`)
 ## 設定初期化方法
 `R : CALL SECONDARY STATION`でステーションID 1を呼び出し  
 入れたら`K: RESET TO DEFAULT TABLE`を実行  
-## コンパネ設定方法
+## SBusコンパネ設定方法
 `Z: SET UNIT DETECTABLE`で各アドレス上でEnterキーを押して状態を?に全部変更  
 一度抜けて再び入り、?が機種IDになっているところが認識しているコンパネのアドレス。  
 必要に応じて`F: SET ACTIVE UNIT NUMBER`で繋がっているコンパネのアドレスを有効にする。  
