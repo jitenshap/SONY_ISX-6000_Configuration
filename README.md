@@ -1,4 +1,4 @@
-# SONY_ISX-6000_Configuration
+# SONY_IXS-6000_Configuration
 SONY IXS-6600 IXS-6700の構成用メモ  
 ixs-6000.rlg: RLoginのTelnet設定ファイル  
 ## Telnet接続
