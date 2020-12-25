@@ -15,7 +15,7 @@ F5:  `ESC [ 21 ` (`1B, 5B, 31, 31, 7E`)
 入れたら`K: RESET TO DEFAULT TABLE`を実行  
 ## コンパネ設定方法
 `Z: SET UNIT DETECTABLE`で各アドレス上でEnterキーを押して状態を?に全部変更  
-一度抜けて再び入り、?が機種IDになっているところが認識しているコンパネのアドレス。 
+一度抜けて再び入り、?が機種IDになっているところが認識しているコンパネのアドレス。  
 必要に応じて`F: SET ACTIVE UNIT NUMBER`で繋がっているコンパネのアドレスを有効にする。  
 `N: SET DESCRIPTION NAME GROUP`でShift+Sを押して、コンパネのアドレスを入力してEnter  
 `R : CALL SECONDARY STATION`でコンパネのIDを入力して呼び出し  
