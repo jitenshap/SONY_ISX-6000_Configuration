@@ -1,0 +1,2 @@
+# SONY_ISX-6000_Configuration
+SONY IXS-6600 IXS-6700の構成用メモ
